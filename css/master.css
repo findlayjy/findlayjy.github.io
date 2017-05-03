@@ -126,6 +126,17 @@ a:active {
   clear: both;
 }
 
+.footer {
+  width: 50%;
+  margin: auto;
+}
+
+.footer p {
+  text-align: center;
+  font-size: 75%;
+  color: LightGray;
+}
+
 .articles ul, .proceedings ul, .presentations ul {
   list-style-type: none;
   padding: 0;
