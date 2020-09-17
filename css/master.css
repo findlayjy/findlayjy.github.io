@@ -137,12 +137,12 @@ a:active {
   color: LightGray;
 }
 
-.thesis ul, .articles ul, .chapters ul, .proceedings ul, .presentations ul {
+.thesis ul, .articles ul, .chapters ul, .proceedings ul, .presentations ul, .publications ul {
   list-style-type: none;
   padding: 0;
 }
 
-.thesis ul, .articles li, .chapters li, .proceedings li, .presentations li {
+.thesis li, .articles li, .chapters li, .proceedings li, .presentations li, .publications li {
   margin-bottom: 1em;
   padding: 0;
 }
