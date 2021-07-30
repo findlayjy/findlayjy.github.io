@@ -28,8 +28,8 @@ a:active {
 
 #oxford_pic {
   display: block;
-  width: 300px;
-  height: auto;
+  width: auto;
+  height: 300px;
   margin: 20px;
   margin-top: 0;
   margin-left: 0;
