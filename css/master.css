@@ -126,6 +126,10 @@ a:active {
   clear: both;
 }
 
+.body p {
+  font-size:10vw;
+}
+
 .footer {
   width: 50%;
   margin: auto;
