@@ -54,7 +54,7 @@ a:active {
 }
 
 .nav {
-  float: right;
+  /* float: right; */
   text-align: center;
   margin-right: 200px;
   margin-top: 10px;
