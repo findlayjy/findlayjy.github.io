@@ -17,7 +17,7 @@ a:active {
 
 #profile_pic {
   display: block;
-  width: 300px;
+  width: min(75%,300px);
   height: auto;
   margin: auto;
   margin-top: 70px;
@@ -28,8 +28,9 @@ a:active {
 
 #oxford_pic {
   display: block;
-  width: auto;
-  height: 300px;
+  width: min(100%,500px);
+  height: auto;
+  /* height: 300px; */
   margin: 20px;
   margin-top: 0;
   margin-left: 0;
@@ -49,18 +50,18 @@ a:active {
 }
 
 #intro_blurb p {
-  width: 500px;
+  width: min(75%,500px);
   margin: 10px auto;
 }
 
 .nav {
-  /* float: right; */
+  float: right;
   text-align: center;
-  margin-right: 200px;
+  margin-right: min(10vw,200px);
   margin-top: 10px;
   margin-bottom: 70px;
   border-bottom: 1px solid gray;
-  width: 350px;
+  width: min(100%,350px);
   padding: 0;
 }
 
