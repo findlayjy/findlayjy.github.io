@@ -121,7 +121,7 @@ a:active {
 }
 
 .body {
-  width: 59%;
+  width: min(75%,1000px);
   margin: auto;
   clear: both;
 }
