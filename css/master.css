@@ -127,7 +127,7 @@ a:active {
 }
 
 .body p {
-  font-size: clamp(100%,1vw,200%);
+  /* font-size: clamp(100%,1vw,200%); */
 }
 
 .footer {
