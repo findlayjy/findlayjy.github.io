@@ -121,13 +121,13 @@ a:active {
 }
 
 .body {
-  width: 50%;
+  width: 75%;
   margin: auto;
   clear: both;
 }
 
 .body p {
-  font-size:10vw;
+  font-size: clamp(100%,1vw,200%);
 }
 
 .footer {
