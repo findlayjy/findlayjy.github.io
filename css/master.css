@@ -127,20 +127,20 @@ a:active {
   clear: both;
 }
 
-.body p {
+/* .body p { */
   /* font-size: clamp(100%,1vw,200%); */
-}
+/* } */
 
-.footer {
-  width: 50%;
-  margin: auto;
-}
+/* .footer { */
+/*   width: 50%; */
+/*   margin: auto; */
+/* } */
 
-.footer p {
-  text-align: center;
-  font-size: 75%;
-  color: LightGray;
-}
+/* .footer p { */
+/*   text-align: center; */
+/*   font-size: 75%; */
+/*   color: LightGray; */
+/* } */
 
 .thesis ul, .articles ul, .chapters ul, .proceedings ul, .presentations ul, .publications ul {
   list-style-type: none;
@@ -149,5 +149,5 @@ a:active {
 
 .thesis li, .articles li, .chapters li, .proceedings li, .presentations li, .publications li {
   margin-bottom: 1em;
-  padding: 0;
+  /* padding: 0; */
 }
