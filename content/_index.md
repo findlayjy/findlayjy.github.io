@@ -23,27 +23,44 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Postdoctoral Research Fellow
+          company: University of Oslo
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          company_logo: uio-crest
+          location: Oslo, NO
+          date_start: '2021-04-01'
           date_end: ''
-          description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+          description: |2- 
+              * Conducting research in computational syntax and semantics.
+              * Teaching a range of courses at both undergraduate and graduate levels.
+        - title: Departmental Lecturer in Syntax
+          company: University of Oxford
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          company_logo: oxford-logo
+          location: Oxford, UK
+          date_start: '2019-10-01'
+          date_end: '2021-03-31'
+          description: Teaching and supervision of work in syntax and other topics to students of all levels.
+        - title: Stipendiary Lecturer in Linguistics
+          company: Jesus College, University of Oxford
+          company_url: ''
+          company_logo: jesus-crest
+          location: Oxford, UK
+          date_start: '2019-10-01'
+          date_end: '2020-09-30'
+          description: |2-
+              * Coordinating teaching & providing academic and pastoral support for undergraduate linguistics students at Jesus College.
+              * Teaching in general linguistics and grammatical analysis.
+        - title: Stipendiary Lecturer in Linguistics
+          company: St Hugh's College, University of Oxford
+          company_url: ''
+          company_logo: st-hughs-crest
+          location: Oxford, UK
+          date_start: '2018-10-01'
+          date_end: '2019-09-30'
+          description: |2-
+              * Coordinating teaching & providing academic and pastoral support for undergraduate linguistics students at St Hugh's College.
+              * Tutorial teaching for other colleges in general linguistics, grammatical analysis, psycholinguistics, and sociolinguistics.
     design:
       columns: '2'
   - block: collection

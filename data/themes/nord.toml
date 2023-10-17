@@ -45,3 +45,7 @@ name = "Nord"
   # menu_text = "#000"
   # menu_text_active = "#000"
   # menu_title = "#000"
+
+  # Experience block
+  card-color = "#434C5E"
+  card-bg = "#434C5E"

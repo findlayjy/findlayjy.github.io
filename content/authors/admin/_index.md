@@ -62,13 +62,16 @@ social:
 #      header: false
   - icon: google-scholar # Alternatively, use  'graduation-cap' from 'fas' pack
     icon_pack: ai
-    link: https://scholar.google.com/citations?&user=Q2v46FwAAAAJ
+    link: 'https://scholar.google.com/citations?&user=Q2v46FwAAAAJ'
+  - icon: orcid
+    icon_pack: ai
+    link: 'https://orcid.org/0000-0002-7700-1525'
   - icon: github
     icon_pack: fab
-    link: https://github.com/findlayjy
+    link: 'https://github.com/findlayjy'
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/findlayjy/
+    link: 'https://www.linkedin.com/in/findlayjy/'
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
