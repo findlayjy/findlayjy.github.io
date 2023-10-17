@@ -1,0 +1,47 @@
+# Theme metadata
+name = "Nord"
+
+[light]
+  # Primary
+  # primary = "#707070" # original earth color
+  primary = "#81A1C1"
+
+  # Menu
+  menu_primary = "#f6eee9"
+  menu_text = "#000"
+  menu_text_active = "#000"
+  menu_title = "#000"
+
+  # Links
+  link = "#707070"
+  link_hover = "#000"
+  link_decoration = "underline"
+
+  # Home sections
+  home_section_odd = "#f9f7f6"
+  # home_section_even = "#D8DEE9"
+  home_section_even = "#ffffff"
+  # home_section_odd = "#ECEFF4"
+
+[dark]
+  # Primary
+  # primary = "#2E3440" # nord0
+  # primary = "#bbdefb"
+  # primary = "#88C0D0" # nord8
+  primary = "#81A1C1" #nord9
+  # link = "#88C0D0" # nord8
+  # link_hover = "#81A1C1" #nord9
+  link_hover = "#5E81AC" #nord10
+  background = "#2E3440" #nord0
+  # background = "#3B4252" #nord1
+  home_section_odd = "#2E3440" #nord0
+  home_section_even = "#2E3440" #nord0
+  # home_section_even = "#3B4252" #nord1
+
+  # Menu
+  # menu_primary = "#2E3440" #nord0
+  menu_primary = "#3B4252" #nord1
+  # menu_primary = "#434C5E" #nord2
+  # menu_text = "#000"
+  # menu_text_active = "#000"
+  # menu_title = "#000"

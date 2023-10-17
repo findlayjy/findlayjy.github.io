@@ -6,8 +6,15 @@
 # Appearance
 
 appearance:
-  theme_day: minimal
-  theme_night: minimal
+  # theme_day: earth
+  # theme_day: 1950s
+  theme_day: nord
+  #
+  theme_night: nord
+  # theme_night: mr_robot
+  # theme_night: dark
+  # theme_night: minimal
+  #
   font: minimal 
   font_size: L
 
@@ -18,8 +25,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-    twitter: 'wowchemy'
+    description: 'Jamie Y. Findlay personal academic website'
+    twitter: 'findlayjy'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -43,14 +50,14 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+  # copyright:
+    # notice: '© {year} Me. This work is licensed under {license}'
+    # license:
+      # enable: true
+      # allow_derivatives: false
+      # share_alike: true
+      # allow_commercial: false
 
 # Localization
 
@@ -66,7 +73,7 @@ features:
     theme_light: github-light
     theme_dark: dracula
   math:
-    enable: false
+    enable: true
   privacy_pack:
     enable: false
   repository:
