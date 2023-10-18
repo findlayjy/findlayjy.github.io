@@ -3,35 +3,21 @@ name = "Nord"
 
 [light]
   # Primary
-  # primary = "#707070" # original earth color
   primary = "#81A1C1" # nord9: necessary atm because the dark theme still uses this for certain elements ... Will be fixed once Wowchemy moves to Tailwind?
 
-  # textColor = "#3B4252"
-  textColor = "#BF616A"
-
   # Menu
-  # menu_primary = "#E5E9F0" # nord5
   menu_primary = "#D8DEE9" # nord4
   menu_text = "#3B4252" # nord1
-  # menu_text = "#434C5E" # nord2
-  # menu_text = "#D8DEE9" # nord4
-  # menu_text_active = "#B48EAD" # nord15
-  # menu_text_active = "#D08770" # nord12
-  # menu_text_active = "#88C0D0" # nord8
   menu_text_active = "#BF616A" # nord11
   menu_title = "#3B4252" # nord1
 
   # Links
-  # link = "#81A1C1" # nord9
   link = "#5E81AC" # nord10
-  # link_hover = "#88C0D0" # nord8
   link_hover = "#81A1C1" # nord9
   # link_decoration = "underline"
 
   # Home sections
-  # home_section_odd = "#f9f7f6"
   home_section_even = "#ECEFF4" # nord6
-  # home_section_even = "#ffffff"
   home_section_odd = "#ECEFF4" # nord6
 
 [dark]
