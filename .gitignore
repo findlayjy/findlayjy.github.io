@@ -3,6 +3,11 @@
 *.log
 tmp/
 
+# From Hugo building locally
+.hugo_build.lock
+resources/_gen
+
+# Unused at present, but keeping the templates for reference
 content/project/
 content/post/
 content/event/
