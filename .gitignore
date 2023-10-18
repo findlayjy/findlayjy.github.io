@@ -6,6 +6,7 @@ tmp/
 # From Hugo building locally
 .hugo_build.lock
 resources/_gen
+assets/jsconfig.json
 
 # Unused at present, but keeping the templates for reference
 content/project/
