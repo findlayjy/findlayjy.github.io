@@ -95,17 +95,17 @@ features:
       repo_id: ''
       category: ''
       category_id: ''
-  search:
-    provider: wowchemy
-    algolia:
-      app_id: ''
-      api_key: ''
-      index_name: ''
-      show_logo: false
+  # search:
+  #   provider: wowchemy
+  #   algolia:
+  #     app_id: ''
+  #     api_key: ''
+  #     index_name: ''
+  #     show_logo: false
   map:
-    # provider: ''
-    # api_key: ''
-    # zoom: 15
+    provider: 'google'
+    api_key: 'AIzaSyAuD6uCApa8fV7aANwkyVKOMp0ZE9t0h0o'
+    zoom: 15
 
 # Extensions
 
@@ -115,6 +115,11 @@ extensions:
     local_backend: false
   academicons:
     enable: true
+
+# Publications
+publications:
+  date_format: January 2006
+  citation_style: apa
 
 # Security
 

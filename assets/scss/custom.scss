@@ -1,0 +1,30 @@
+
+// Change the background of cards, e.g. in the Experience block, to a nord colour
+.dark .card {
+    background: #3B4252; // nord1
+}
+
+// Underline links on hover
+.article-style a:hover {
+    text-decoration: underline;
+}
+
+// My hack for having text in the left-hand column of the Experience block -- light mode
+.section-heading .fake-p {
+    color: #000000CC;
+    font-size: 21px;
+}
+
+// My hack for having text in the left-hand column of the Experience block -- dark mode
+.dark .section-heading .fake-p {
+    color: #f8f8f2;
+    font-size: 21px;
+}
+
+.dark .li-cite-author {
+    // color: #f8f8f2;
+    // color: #D8DEE9; // nord4
+    // color: #E5E9F0; // nord5
+    color: #88C0D0; // nord8
+
+}

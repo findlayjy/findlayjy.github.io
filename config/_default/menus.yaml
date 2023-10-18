@@ -14,7 +14,7 @@ main:
     url: '/publication'
     weight: 30
   - name: CV
-    url: '#cv'
+    url: '/cv'
     weight: 40
   - name: Contact
     url: '/contact'
