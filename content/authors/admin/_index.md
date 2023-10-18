@@ -6,6 +6,8 @@ title: Jamie Y. Findlay
 first_name: Jamie
 last_name: Findlay
 
+# name_pronunciation: "/ˈdʒeɪmi/ /ˈfɪndli/"
+
 # Status emoji
 status:
   icon: 
@@ -86,14 +88,13 @@ email: ''
 highlight_name: true
 ---
 
-I am a theoretical linguist: I aim to understand how human language works by
-coming up with theories about it and then testing them. In particular, I am
-interested in the structure of sentences (syntax), how the meanings of sentences
-are computed (semantics), and the ways in which these two interact. 
-
-Professionally, I am a Postdoctoral Research Fellow in Semantics at the
-University of Oslo, where I am part of the [Universal Natural Language
-Understanding
-project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/300495?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&TemaEmne.2=eVitenskap).
-Prior to this, I was a Departmental Lecturer at the University of Oxford, where
-my teaching included general linguistics, syntax, and sociolinguistics.
+I am a Postdoctoral Research Fellow in Semantics at the University of Oslo,
+where I am part of the [Universal Natural Language Understanding
+project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/300495?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&TemaEmne.2=eVitenskap)
+[[{{<icon name = "github" pack = "fab">}}](https:www.github.com/Universal-NLU)].
+The main focus of my work is on using computational and mathematical tools to
+explore the interface between syntax and semantics, especially in relation to
+multiword expressions (such as idioms). But I am interested in all areas of
+grammatical theory (including meta-theory), and in all areas of linguistics more
+broadly: as well as syntax and semantics, my research has touched on
+sociolinguistics, pragmatics, and cognitive linguistics.

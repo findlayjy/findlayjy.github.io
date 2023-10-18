@@ -12,8 +12,13 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: experience
+    id: cv
     content:
-      title: Experience
+      title: Curriculum Vitae
+      subtitle: |2-
+        <p class="fake-p">My full CV is available <a href="https://jyfindlay.com/cv/findlay-cv.pdf" target="_blank">here</a>.</p>
+        <p class="fake-p">In case you like the look of it, the LaTeX source code is also available <a href="https://github.com/findlayjy/cv/blob/main/findlay-cv.tex" target="_blank">on GitHub</a>.</p>
+
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -40,7 +45,9 @@ sections:
           location: Oxford, UK
           date_start: '2019-10-01'
           date_end: '2021-03-31'
-          description: Teaching and supervision of work in syntax and other topics to students of all levels.
+          description: |2-
+              * Teaching and supervision of work in syntax and other topics to students of all levels.
+              * Responsible for coordinating core undergraduate teaching in grammatical analysis (syntax and morphology)
         - title: Stipendiary Lecturer in Linguistics
           company: Jesus College, University of Oxford
           company_url: ''
