@@ -26,6 +26,17 @@
 }
 
 // Fixing jumping icons when we go from a page with no scrollbr to one with/vice versa
+// This results in a scrollbar being permanently present
 html {
     overflow-y: scroll;
 }
+
+// This results in a gap on the RHS of the navbar
+// html {
+//     scrollbar-gutter: stable;
+// }
+
+// This removes the scrollbar altogether ... The best solution aesthetically, but maybe not ideal functionally?
+// ::-webkit-scrollbar {
+//     display: none;
+// }
