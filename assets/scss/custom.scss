@@ -23,5 +23,9 @@
 
 .dark .li-cite-author {
     color: #88C0D0; // nord8
+}
 
+// Fixing jumping icons when we go from a page with no scrollbr to one with/vice versa
+html {
+    overflow-y: scroll;
 }
