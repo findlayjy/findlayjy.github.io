@@ -5,10 +5,16 @@ tmp/
 
 # From Hugo building locally
 .hugo_build.lock
-resources/_gen
+resources/
 assets/jsconfig.json
+go.sum
 
-# Unused at present, but keeping the templates for reference
+# Unused at present, but keeping for reference
 content/project/
 content/post/
 content/event/
+assets/media/albums
+data/fonts/
+data/page_sharer.toml
+images/
+static/
