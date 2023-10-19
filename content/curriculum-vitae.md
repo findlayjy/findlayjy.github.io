@@ -7,9 +7,10 @@ sections:
     content:
       title: Curriculum Vitae
       subtitle: |2-
+        <div class="article-style">
         <p class="fake-p">My full CV is available <a href="https://jyfindlay.com/cv/findlay-cv.pdf" target="_blank">here</a>.</p>
         <p class="fake-p">In case you like the look of it, the LaTeX source code is also available <a href="https://github.com/findlayjy/cv/" target="_blank">on GitHub</a>.</p>
-
+        </div>
       date_format: Jan 2006
       items:
         - title: Postdoctoral Research Fellow
