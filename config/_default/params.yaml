@@ -103,8 +103,8 @@ features:
   #     index_name: ''
   #     show_logo: false
   map:
-    provider: 'google'
-    api_key: 'AIzaSyAuD6uCApa8fV7aANwkyVKOMp0ZE9t0h0o'
+    provider: ''
+    api_key: ''
     zoom: 15
 
 # Extensions

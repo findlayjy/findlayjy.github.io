@@ -43,9 +43,9 @@ sections:
       #     link: 'https://zoom.com'
       # Automatically link email and phone or display them just as text?
       # autolink: true
-      coordinates:
-        latitude: '59.94236639493442'
-        longitude: '10.722247284395692'
+      # coordinates:
+      #   latitude: '59.94236639493442'
+      #   longitude: '10.722247284395692'
 
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
