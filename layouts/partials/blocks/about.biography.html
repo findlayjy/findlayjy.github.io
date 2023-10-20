@@ -105,7 +105,11 @@
           {{ range . }}
           <li>
             <i class="fa-li fa-solid fa-book"></i>
-            {{ . | markdownify | emojify }}
+            {{ if isset . "details" }}
+            <details style="margin-bottom: 0px;"><summary>{{ .name | markdownify | emojify }}</summary> {{ .details | markdownify | emojify }}</details>
+            {{ else }}
+            {{ .name | markdownify | emojify }}
+            {{ end }}
           </li>
           {{ end }}
         </ul>

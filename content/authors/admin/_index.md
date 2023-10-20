@@ -30,10 +30,47 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Syntax
-  - Semantics
-  - Computational linguistics
-  - Sociolinguistics
+      - name: Syntax/semantics
+        details: |2-
+          - Multiword expressions
+          - Argument structure & mapping theory
+          - Metaphor & analogy
+          - Lexical Functional Grammar
+          - Glue Semantics
+          - Tree Adjoining Grammar
+          - Construction Grammar
+          - Universal Dependencies
+          - Discourse Representation Theory
+      # - name: Syntax
+      #   details: |2-
+      #     - Multiword expressions
+      #     - Argument structure & mapping theory
+      #     - Lexical Functional Grammar
+      #     - Tree Adjoining Grammar
+      #     - Construction Grammar
+      #     - Universal Dependencies
+      # - name: Semantics
+      #   details: |2-
+      #     - Multiword expressions
+      #     - Argument structure & mapping theory
+      #     - Metaphor & analogy
+      #     - Glue Semantics
+      #     - Discourse Representation Theory
+      - name: Computational linguistics
+        details: |2-
+          - Corpus linguistics
+          - Semantic parsing & annotation
+          - Grammar engineering (XLE)
+      - name: Sociolinguistics
+        details: |2-
+          - Language and gender
+          - Language and sexuality
+          - (Critical) discourse analysis
+  # - <details><summary>Syntax</summary>
+  #   {{  }} Some other text </details>
+  # - Semantics
+  # - Computational linguistics
+  # - Sociolinguistics
 
 # Education to show in About widget
 education:
@@ -93,8 +130,10 @@ where I am part of the [Universal Natural Language Understanding
 project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/300495?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&TemaEmne.2=eVitenskap)
 [[{{<icon name = "github" pack = "fab">}}](https:www.github.com/Universal-NLU)].
 The main focus of my work is on using computational and mathematical tools to
-explore the interface between syntax and semantics, especially in relation to
-multiword expressions (such as idioms). But I am interested in all areas of
-grammatical theory (including meta-theory), and in all areas of linguistics more
-broadly: as well as syntax and semantics, my research has touched on
-sociolinguistics, pragmatics, and cognitive linguistics.
+explore syntax and semantics (I don't think the two can be meaningfully studied
+in isolation<span class="popup-note" data-toggle="tooltip" title="It's a pity
+that Haj Ross's hybrid term &ldquo;semantax&rdquo; never caught on."
+data-placement=right>*</span>). But I am interested in all areas of grammatical
+theory (including meta-theory), and in all areas of linguistics more broadly: as
+well as syntax and semantics, my research has touched on sociolinguistics,
+pragmatics, and cognitive linguistics.
