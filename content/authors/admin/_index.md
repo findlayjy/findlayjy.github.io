@@ -32,18 +32,16 @@ bio:
 interests:
       - name: Syntax/semantics
         details: |2-
-          - Phenomena:
-            - Multiword expressions
-            - Argument structure & mapping theory
-            - Prepositional verbs and their passives
-            - Metaphor & analogy
-          - Frameworks:
-            - Lexical Functional Grammar
-            - Glue Semantics
-            - Tree Adjoining Grammar
-            - Construction Grammar
-            - Universal Dependencies
-            - Discourse Representation Theory
+          - Multiword expressions
+          - Argument structure & mapping theory
+          - Prepositional verbs and their passives
+          - Metaphor & analogy
+          - Lexical Functional Grammar
+          - Glue Semantics
+          - Tree Adjoining Grammar
+          - Construction Grammar
+          - Universal Dependencies
+          - Discourse Representation Theory
       # - name: Syntax
       #   details: |2-
       #     - Multiword expressions
