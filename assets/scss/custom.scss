@@ -8,16 +8,12 @@
     text-decoration: underline;
 }
 
-// Remove bottom margin from details
-// details {
-//     margin-bottom: 0px;
-// }
-
+// Styling the folding summaries on the homepage
 summary {
   list-style: none;
 }
 
-//// Removing the default marker
+// Removing the default marker on summaries
 summary::-webkit-details-marker {
     display: none;
 }
@@ -104,4 +100,8 @@ html {
 
 ul details ul {
     list-style-type: disc;
+}
+
+ul details ul ul {
+  list-style-type: square;
 }

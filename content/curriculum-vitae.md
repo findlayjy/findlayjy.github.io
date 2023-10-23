@@ -32,7 +32,7 @@ sections:
           date_end: '2021-03-31'
           description: |2-
               * Teaching and supervision of work in syntax and other topics to students of all levels.
-              * Responsible for coordinating core undergraduate teaching in grammatical analysis (syntax and morphology)
+              * Responsible for coordinating core undergraduate teaching in grammatical analysis (syntax and morphology).
         - title: Stipendiary Lecturer in Linguistics
           company: Jesus College, University of Oxford
           company_url: ''

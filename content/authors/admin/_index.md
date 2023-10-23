@@ -32,15 +32,18 @@ bio:
 interests:
       - name: Syntax/semantics
         details: |2-
-          - Multiword expressions
-          - Argument structure & mapping theory
-          - Metaphor & analogy
-          - Lexical Functional Grammar
-          - Glue Semantics
-          - Tree Adjoining Grammar
-          - Construction Grammar
-          - Universal Dependencies
-          - Discourse Representation Theory
+          - Phenomena:
+            - Multiword expressions
+            - Argument structure & mapping theory
+            - Prepositional verbs and their passives
+            - Metaphor & analogy
+          - Frameworks:
+            - Lexical Functional Grammar
+            - Glue Semantics
+            - Tree Adjoining Grammar
+            - Construction Grammar
+            - Universal Dependencies
+            - Discourse Representation Theory
       # - name: Syntax
       #   details: |2-
       #     - Multiword expressions
@@ -132,7 +135,7 @@ project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/300495?Kild
 The main focus of my work is on using computational and mathematical tools to
 explore syntax and semantics (I don't think the two can be meaningfully studied
 in isolation<span class="popup-note" data-toggle="tooltip" title="It's a pity
-that Haj Ross's hybrid term &ldquo;semantax&rdquo; never caught on."
+that Haj Ross's hybrid term &ldquo;semantax&rdquo; didn't catch on."
 data-placement=right>*</span>). But I am interested in all areas of grammatical
 theory (including meta-theory), and in all areas of linguistics more broadly: as
 well as syntax and semantics, my research has touched on sociolinguistics,
