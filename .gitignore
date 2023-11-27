@@ -12,6 +12,7 @@ go.sum
 # Unused at present, but keeping for reference
 content/project/
 content/post/
+content/publication/staging.bib
 content/event/
 assets/media/albums
 data/fonts/
