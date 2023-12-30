@@ -1,6 +1,4 @@
 ---
-draft: true
-
 title: Lexical Functional Grammar as a Construction Grammar
 
 # Authors
@@ -14,10 +12,10 @@ authors:
 # A YAML list of notes for each author in the above `authors` list
 author_notes: []
 
-date: '23-01-01'
+date: '2023-01-01'
 
 # Date to publish webpage (NOT necessarily Bibtex publication's date).
-publishDate: '2023-10-18T14:55:33.536123Z'
+publishDate: '2023-12-22'
 
 # Publication type.
 # A single CSL publication type but formatted as a YAML list (for Hugo requirements).
@@ -28,7 +26,7 @@ publication_types:
 publication: '*Journal of Language Modelling*'
 publication_short: ''
 
-doi: ''
+doi: 10.15398/jlm.v11i2.338
 
 abstract: ''
 
@@ -41,7 +39,7 @@ tags: []
 featured: false
 
 # Links
-url_pdf: ''
+url_pdf: 'https://jlm.ipipan.waw.pl/index.php/JLM/article/view/338/279'
 url_code: ''
 url_dataset: ''
 url_poster: ''
