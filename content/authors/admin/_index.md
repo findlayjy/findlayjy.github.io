@@ -138,5 +138,3 @@ data-placement=right>*</span>). But I am interested in all areas of grammatical
 theory (including meta-theory), and in all areas of linguistics more broadly: as
 well as syntax and semantics, my research has touched on sociolinguistics,
 pragmatics, and cognitive linguistics.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/dkkmHJ9zjiQ?si=PuZOhhf_JVVAmcoV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
