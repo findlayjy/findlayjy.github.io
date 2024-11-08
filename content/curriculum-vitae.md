@@ -13,16 +13,27 @@ sections:
         </div>
       date_format: Jan 2006
       items:
-        - title: Postdoctoral Research Fellow
+        - title: Associate Professor (Førsteamanuensis)
+          company: University of Oslo
+          company_url: ''
+          company_logo: uio-crest
+          location: Oslo, NO
+          date_start: '2024-11-01'
+          date_end: ''
+          description: |2-
+              * Conducting research in (computational) syntax, semantics, and sociolinguistics.
+              * Designing and implementing new courses in computational linguistics.
+              * Teaching a range of other courses at both undergraduate and graduate levels.
+        - title: Postdoctoral Research Fellow (Postdoktor)
           company: University of Oslo
           company_url: ''
           company_logo: uio-crest
           location: Oslo, NO
           date_start: '2021-04-01'
-          date_end: ''
+          date_end: '2024-10-31'
           description: |2-
-              * Conducting research in computational syntax and semantics.
-              * Teaching a range of courses at both undergraduate and graduate levels.
+              * Conducting research in (computational) syntax and semantics.
+              * Teaching various courses at both undergraduate and graduate levels.
         - title: Departmental Lecturer in Syntax
           company: University of Oxford
           company_url: ''

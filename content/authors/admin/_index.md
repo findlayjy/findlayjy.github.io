@@ -16,7 +16,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Research Fellow in Semantics 
+role: Associate Professor (Førsteamanuensis) in Linguistics
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -82,7 +82,7 @@ education:
     - course: MPhil in General Linguistics
       institution: University of Oxford
       year: 2014
-    - course: MA in French & Linguistics
+    - course: BA in French & Linguistics
       institution: University of Oxford
       year: 2011
 
@@ -126,14 +126,13 @@ email: ''
 highlight_name: true
 ---
 
-I am a Postdoctoral Research Fellow in Semantics at the University of Oslo,
-where I am part of the [Universal Natural Language Understanding
-project](https://prosjektbanken.forskningsradet.no/en/project/FORISS/300495?Kilde=FORISS&distribution=Ar&chart=bar&calcType=funding&Sprak=no&sortBy=date&sortOrder=desc&resultCount=30&offset=0&TemaEmne.2=eVitenskap)
-[[{{<icon name = "github" pack = "fab">}}](https:www.github.com/Universal-NLU)].
-The main focus of my work is on using computational and mathematical tools to
-explore syntax and semantics (I don't think the two can be meaningfully studied
-in isolation<span class="popup-note" data-toggle="tooltip" title="It's a pity
-that Haj Ross's hybrid term &ldquo;semantax&rdquo; didn't catch on."
+I am an Associate Professor (Førsteamanuensis) in Linguistics at the University
+of Oslo, in the [Department of Linguistics and Scandinavian
+Studies](https://www.hf.uio.no/iln/english/). The main focus of my work is on
+using computational and mathematical tools to explore syntax and semantics (I
+don't think the two can be meaningfully studied in isolation<span
+class="popup-note" data-toggle="tooltip" title="It's a pity that Haj Ross's
+hybrid term &ldquo;semantax&rdquo; didn't catch on."
 data-placement=right>*</span>). But I am interested in all areas of grammatical
 theory (including meta-theory), and in all areas of linguistics more broadly: as
 well as syntax and semantics, my research has touched on sociolinguistics,
